@@ -1,6 +1,8 @@
 package pojos;
 
-public class DiscoDuro extends Alquilable {
+import interfaces.IReseteable;
+
+public class DiscoDuro extends Alquilable implements IReseteable {
     private int capacidad;
     public DiscoDuro(String codigo, String modelo, double precioHora, int capacidad){
         super(codigo,modelo,precioHora);
@@ -14,4 +16,46 @@ public class DiscoDuro extends Alquilable {
     public void setCapacidad(int capacidad) {
         this.capacidad = capacidad;
     }
+
+    @Override
+    public void reset() {
+        System.out.println("Formateando disco duro...");
+    }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -27,7 +27,7 @@ public class Main {
         Cpu cpu = new Cpu("P20","Satellite","China",Calendar.getInstance().getTime(), toshiba,16);
         System.out.println(cpu);
         */
-
+        /*
         //POLIMORFISMO
         Producto producto = new Producto("G120","Genius G120 + ");
         Producto lj750 = new Impresora("lj758","Canon Laserjet 758",30);
@@ -54,8 +54,40 @@ public class Main {
         for (int i = 0; i < productos.length; i++) {
             System.out.println(productos[i]);
         }
+
+         */
+        // Interfaces
+        Monitor lg1080 = new Monitor("lg1080","Monitor LG 1080+",10,"HD");
+        lg1080.reset();
+        DiscoDuro s1000 = new DiscoDuro("s1000","Samsmung s1000",20,1000);
+        s1000.reset();
+        //Cpu lg1020 = new Cpu("Azuz12","Delux","USA",Calendar.getInstance().getTime(), "lg1020",16);
+        //DiscoSolido f2000 = new DiscoSolido("f2000","LG f2000","China",Calendar.getInstance().getTime(), "LG");
+        Impresora L3150 = new Impresora("Epsonl3150","L3150",50);
+        L3150.reset();
+
+
+
     }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
