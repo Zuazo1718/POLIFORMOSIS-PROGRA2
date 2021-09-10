@@ -1,6 +1,6 @@
 package pojos;
 
-public class Producto {
+public abstract class Producto {
     protected String codigo;
     protected String modelo;
 
@@ -33,4 +33,6 @@ public class Producto {
                 ", modelo='" + modelo + '\'' +
                 '}';
     }
+
+    public abstract void estado();
 }

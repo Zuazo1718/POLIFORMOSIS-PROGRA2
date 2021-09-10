@@ -2,21 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="829b93c2-7d7c-4ac2-bd15-2612160ddc3b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaces/IReseteable.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/INFORDATAZUAZO/pojos/Alquilable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/INFORDATAZUAZO/pojos/Alquilable.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/INFORDATAZUAZO/pojos/Cpu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/INFORDATAZUAZO/pojos/Cpu.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/INFORDATAZUAZO/pojos/DiscoDuro.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/INFORDATAZUAZO/pojos/DiscoDuro.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/INFORDATAZUAZO/pojos/DiscoSolido.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/INFORDATAZUAZO/pojos/DiscoSolido.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/INFORDATAZUAZO/pojos/Impresora.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/INFORDATAZUAZO/pojos/Impresora.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/INFORDATAZUAZO/pojos/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/INFORDATAZUAZO/pojos/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/INFORDATAZUAZO/pojos/Monitor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/INFORDATAZUAZO/pojos/Monitor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/INFORDATAZUAZO/pojos/Producto.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/INFORDATAZUAZO/pojos/Producto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/INFORDATAZUAZO/pojos/Tecnologico.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/INFORDATAZUAZO/pojos/Tecnologico.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pojos/Alquilable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pojos/Alquilable.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pojos/Cpu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pojos/Cpu.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pojos/DiscoDuro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pojos/DiscoDuro.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pojos/DiscoSolido.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pojos/DiscoSolido.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pojos/Impresora.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pojos/Impresora.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pojos/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pojos/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pojos/Monitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pojos/Monitor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pojos/Producto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pojos/Producto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pojos/Tecnologico.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pojos/Tecnologico.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

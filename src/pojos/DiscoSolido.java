@@ -23,6 +23,11 @@ public class DiscoSolido extends Tecnologico implements IReseteable {
     public void reset() {
         System.out.println("Formateado disco solido...");
     }
+
+    @Override
+    public void estado() {
+        System.out.println("Cantidad de veces que se formateo al disco : " + 50);
+    }
 }
 
 
